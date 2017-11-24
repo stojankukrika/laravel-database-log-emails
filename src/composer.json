@@ -1,0 +1,21 @@
+{
+    "name": "stojankukrika/laravel-database-log-emails",
+    "description": "Log mails into database which go to send process",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stojan Kukrika",
+            "email": "stojan.kukrika@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.0",
+        "doctrine/dbal": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "stojankukrika\\LaravelDatabaseLogEmails\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
