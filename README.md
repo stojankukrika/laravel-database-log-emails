@@ -2,6 +2,9 @@
 
 A simple database logger for all outgoing emails sent by Laravel application.
 
+
+You can support me to this project and [make some donation]( http://paypal.me/stojankukrika).
+
 ## Installation
 
 Laravel Database Log Emails can be installed via [composer](http://getcomposer.org) by requiring the `stojankukrika/laravel-database-log-emails` package in your project's `composer.json`.
